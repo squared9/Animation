@@ -1,8 +1,7 @@
 # As Rigid As Possible Shape Manipulation
 
 This is a project to reproduce as-rigid-as-possible shape manipulation, described in [Igarashi05](documents/Igarashi-2005-ASM.pdf),
-implemented according to [Igarashi09](documents/takeo_jgt09_arapFlattening.pdf). This project was originally
-used as a final project for Computational Photography at [Georgia Institute of Technology](http://www.gatech.edu).
+implemented according to [Igarashi09](documents/takeo_jgt09_arapFlattening.pdf).
 
 ## How to run
 The code is provided in Python 2.7 file (very minor changes needed for Python 3). The following libraries are required:
